@@ -29,19 +29,25 @@ export default function Navbar() {
             href="#" 
             className="text-gray-600 hover:text-[#ea6c00] transition-colors duration-200"
           >
-            Tentang SDG 4
+            Empati dan Penelitian
           </Link>
           <Link 
             href="#" 
             className="text-gray-600 hover:text-[#ea6c00] transition-colors duration-200"
           >
-            Penelitian
+            Ide
           </Link>
           <Link 
             href="#" 
             className="text-gray-600 hover:text-[#ea6c00] transition-colors duration-200"
           >
-            Solusi
+            Pembuatan Prototipe
+          </Link>
+          <Link 
+            href="#" 
+            className="text-gray-600 hover:text-[#ea6c00] transition-colors duration-200"
+          >
+            Pengujian dan Peninjauan
           </Link>
           <Link 
             href="#" 
@@ -52,9 +58,9 @@ export default function Navbar() {
         </div>
 
         {/* CTA Button */}
-        <button className="bg-[#9b4500] hover:bg-[#ea6c00] text-white px-5 py-2.5 rounded-lg text-sm font-semibold transition-all active:scale-95 duration-150">
+        {/* <button className="bg-[#9b4500] hover:bg-[#ea6c00] text-white px-5 py-2.5 rounded-lg text-sm font-semibold transition-all active:scale-95 duration-150">
           Lihat Data
-        </button>
+        </button> */}
       </div>
     </nav>
   );
