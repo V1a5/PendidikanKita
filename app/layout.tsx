@@ -20,6 +20,9 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "PendidikanKita",
   description: "Memastikan pendidikan berkualitas yang inklusif dan merata serta mempromosikan kesempatan belajar sepanjang hayat bagi semua masyarakat Indonesia.",
+  icons: {
+    icon: "/gambar/pendidikankita.png",
+  },
 };
 
 export default function RootLayout({

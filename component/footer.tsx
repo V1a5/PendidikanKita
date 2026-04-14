@@ -15,7 +15,7 @@ export default function Footer() {
             <span>PendidikanKita</span>
           </div>
           <p className="text-sm opacity-90">
-            © 2024 PendidikanKita. Radiant Vanguard for SDG 4.
+            © 2024 PendidikanKita. by Muhammad Vlas.
           </p>
         </div>
         
