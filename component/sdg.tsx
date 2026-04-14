@@ -57,7 +57,7 @@ export default function AboutSDG() {
         {/* Right Content */}
         <div className="lg:sticky lg:top-32 space-y-8">
           <div className="rounded-xl text-white aspect-square flex flex-col items-center justify-center text-center">
-            <img src="/gambar/ki_hajar_dewantara.jpg" alt="Ki Hajar Dewantara" className="w-full h-full object-cover rounded-xl" />
+            <img src="/gambar/kihajardewantara.jpg" alt="Ki Hajar Dewantara" className="w-full h-full object-cover rounded-xl" />
           </div>
 
           <div className="border-l-4 border-[#006c49] pl-6 py-2">
