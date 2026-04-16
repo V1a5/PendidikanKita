@@ -54,6 +54,14 @@ const sdgData = {
   15: {
     title: "Ekosistem Daratan",
     desc: "Melindungi, memulihkan, dan mempromosikan penggunaan berkelanjutan ekosistem daratan, termasuk hutan, tanah, dan keanekaragaman hayati, serta menghentikan degradasi lahan."
+  },
+  16: {
+    title: "Perdamaian, Keadilan, dan Kelembagaan yang Kuat",
+    desc: "Mempromosikan masyarakat yang damai dan inklusif untuk pembangunan berkelanjutan, memberikan akses keadilan bagi semua, dan membangun lembaga yang efektif, akuntabel, dan inklusif di semua tingkat."
+  },
+  17: {
+    title: "Kemitraan untuk Mencapai Tujuan",
+    desc: "Memperkuat sarana pelaksanaan dan merevitalisasi kemitraan global untuk pembangunan berkelanjutan melalui kerja sama internasional, transfer teknologi, dan peningkatan kapasitas."
   }
 };
 
