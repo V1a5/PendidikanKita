@@ -16,7 +16,7 @@ export default function Facts() {
             </p>
             <p className="text-[#584236] font-medium ">Angka Melek Huruf Penduduk Usia 15 Tahun ke Atas di Indonesia (2025)</p>
             <a href="https://www.bps.go.id/id/statistics-table/2/MTAyIzI=/angka-buta-aksara-menurut-provinsi-dan-kelompok-umur--persen-.html" className="text-gray-500 text-sm" target="_blank" rel="noopener noreferrer">
-              BPS, Susenas 2025
+              BPS, 2025
             </a>
           </div>
 
@@ -36,7 +36,7 @@ export default function Facts() {
             </p>
             <p className="text-[#584236] font-medium">Angka Partisipasi Kasar (APK) perguruan tinggi nasional untuk kelompok usia 19–23 tahun pada tahun 2025.</p>
             <a href="https://www.bps.go.id/id/statistics-table/2/MTQ0NiMy/angka-partisipasi-kasar--apk--perguruan-tinggi--pt--menurut-jenis-kelamin.html" className="text-gray-500 text-sm" target="_blank" rel="noopener noreferrer">
-              BPS, Statistik Pendidikan, 2025
+              BPS, 2025
             </a>
           </div>
 

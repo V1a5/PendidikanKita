@@ -10,7 +10,7 @@ export default function Hero() {
   return (
     <>
       <header className="relative bg-[#fff7ed] dot-grid overflow-hidden">
-        <div className="max-w-7xl mx-auto px-8 py-20 lg:py-32 grid lg:grid-cols-2 gap-16 items-center">
+        <div className="max-w-7xl mx-auto px-8 py-10 lg:py-12 grid lg:grid-cols-2 gap-16 items-center">
           {/* Left Content */}
           <div className="z-10">
             <span className="inline-flex items-center px-4 py-1.5 rounded-full bg-[#ea6c00] text-white text-xs font-bold tracking-widest uppercase mb-6">
@@ -26,10 +26,8 @@ export default function Hero() {
               untuk Semua
             </h1>
 
-            <p className="text-lg text-[#584236] leading-relaxed mb-10 max-w-xl">
-              Memastikan pendidikan berkualitas yang inklusif dan merata serta
-              mempromosikan kesempatan belajar sepanjang hayat bagi semua
-              masyarakat Indonesia.
+            <p className="text-lg text-[#584236] text-justify mb-10 max-w-xl">
+              Dikenal sebagai SDGs (Sustainable Development Goals), 17 tujuan ini adalah komitmen global untuk menciptakan dunia yang lebih adil, berkelanjutan, dan inklusif hingga tahun 2030. Dari mengakhiri kemiskinan hingga menjaga lingkungan, setiap tujuan punya ikon unik yang mewakili fokusnya dari manusia, planet, hingga kemakmuran bersama.
             </p>
 
             <div className="flex flex-wrap gap-4">
