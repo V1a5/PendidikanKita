@@ -57,7 +57,7 @@ export default function Method() {
 
                     <div className="bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow relative overflow-hidden h-64">
                         <img
-                            src="/gambar/survei.png"
+                            src="/gambar/survei.PNG"
                             alt="Survei"
                             className="absolute inset-0 w-full h-full object-cover object-top"
                         />
